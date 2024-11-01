@@ -6,7 +6,6 @@ import ProductList from "./components/ProductList";
 import Banner from "./components/Banner";
 import Offer from "./components/Offer";
 import Card from "./components/Card";
-import Testimonals from "./components/Testimonals";
 import Footer from "./components/Footer";
 import Burger from "./components/Burger";
 import ProductCardGrid from "./components/MenuItem";
