@@ -1,3 +1,8 @@
-{
-  "extends": ["next/core-web-vitals", "next/typescript"]
+{  
+  "extends": ["next/core-web-vitals", "next/typescript"],  
+  "rules": {  
+    "@typescript-eslint/no-unused-vars": "warn", // Warnings for unused variables  
+    "react/react-in-jsx-scope": "off", // Next.js doesn't require React in scope  
+    // Add more custom rules as needed  
+  },  
 }
