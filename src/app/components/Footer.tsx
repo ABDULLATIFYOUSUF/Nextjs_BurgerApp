@@ -32,6 +32,7 @@ export default function Footer() {
           <a href="https://linkedin.com" target="blank" rel="nofollow noopener">
             <Image
               src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"
+              className="w-20"
               alt="linkedin logo"
               width={100}
               height={100}
@@ -41,6 +42,7 @@ export default function Footer() {
           <a href="https://instagram.com" target="blank" rel="nofollow noopener">
             <Image
               src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000"
+              className="w-20"
               alt="instagram logo"
               width={100}
               height={100}
@@ -50,6 +52,7 @@ export default function Footer() {
           <a href="https://twitter.com" target="blank" rel="nofollow noopener">
             <Image
               src="https://img.icons8.com/?size=100&id=13963&format=png&color=000000"
+              className="w-20"
               alt="twitter logo"
               width={100}
               height={100}
